@@ -62,7 +62,7 @@ You can download and install the APK on an Android device:
   
 ## Project Background
 
-This project was completed as part of **Bincom Dev Center** training to demonstrate practical skills in:
+This project was completed as part of **Bincom Dev Center Training** to demonstrate practical skills in:
 - Mobile app development with Cordova
 - Front-end development (HTML, CSS, JavaScript)
 - Building responsive and structured user interfaces
@@ -71,8 +71,7 @@ This project was completed as part of **Bincom Dev Center** training to demonstr
 
 ## Acknowledgement
 
-This project was developed as part of a **Bincom Dev Center** training.
-Special thanks to the Bincom team for the learning experience.
+Special thanks to the **Bincom Dev Center team** for the learning experience.
 
 
 ## Developer
