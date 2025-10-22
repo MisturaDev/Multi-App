@@ -1,7 +1,7 @@
 #  Multi-App
 
 **Multi-App** is a mobile application showcasing multiple CV pages with a built-in contact form powered by [Formspree](https://formspree.io/).  
-The project was developed using Cordova and App.js as part of **Bincom Dev Center project assignment**.
+The project was developed using Cordova and App.js as part of **Bincom Dev Center Training**.
 
 ---
 
@@ -46,7 +46,7 @@ To Run Locally
 
 You can download and install the APK on an Android device:
 
-[Download the Multi-App APK](https://drive.google.com/file/d/1x8KUUuAxKHUyMdpxTHTkiKwSZ_kbT9Ge/view?usp=sharing)
+[Download APK](https://drive.google.com/file/d/1x8KUUuAxKHUyMdpxTHTkiKwSZ_kbT9Ge/view?usp=sharing)
 
 ### How to Install:
 
@@ -62,7 +62,7 @@ You can download and install the APK on an Android device:
   
 ## Project Background
 
-This project was completed as part of Bincom Dev Center assignment to demonstrate practical skills in:
+This project was completed as part of **Bincom Dev Center** training to demonstrate practical skills in:
 - Mobile app development with Cordova
 - Front-end development (HTML, CSS, JavaScript)
 - Building responsive and structured user interfaces
@@ -71,13 +71,14 @@ This project was completed as part of Bincom Dev Center assignment to demonstrat
 
 ## Acknowledgement
 
-This project was developed as part of a Bincom Academy training assignment.
+This project was developed as part of a **Bincom Dev Center** training.
 Special thanks to the Bincom team for the learning experience.
 
 
 ## Developer
 
 **Mistura Ishola**
+
  [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
 
