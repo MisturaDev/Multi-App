@@ -25,7 +25,8 @@ The project was developed using Cordova and App.js as part of **Bincom Dev Cente
 
 ---
 
-##  How to Run Locally
+##  Project Setup
+To Run Locally
 
 1. Clone this repository:
    ```bash
@@ -42,16 +43,23 @@ The project was developed using Cordova and App.js as part of **Bincom Dev Cente
 ---
 
 ## APK Download
-You can download the APK here:
-[Download APK](https://drive.google.com/your-apk-link)
 
+You can download and install the APK on an Android device:
 
-## How to Use
-1. Download and install the APK on your Android device.
-2. Open the app.
-3. Explore the features.
+[Download the Multi-App APK](https://drive.google.com/file/d/1x8KUUuAxKHUyMdpxTHTkiKwSZ_kbT9Ge/view?usp=sharing)
 
+### How to Install:
 
+1. Download the APK file.
+2. On your device, enable installation from unknown sources if required.
+3. Open the APK and install the app.
+4. Launch the app and explore the CV pages.
+
+## Usage
+
+- Navigate between multiple CV pages using the menu.
+- Fill out the contact form to send messages directly via email
+  
 ## Project Background
 
 This project was completed as part of Bincom Dev Center assignment to demonstrate practical skills in:
@@ -59,6 +67,13 @@ This project was completed as part of Bincom Dev Center assignment to demonstrat
 - Front-end development (HTML, CSS, JavaScript)
 - Building responsive and structured user interfaces
 - Integration of a working contact system using Formspree
+
+
+## Acknowledgement
+
+This project was developed as part of a Bincom Academy training assignment.
+Special thanks to the Bincom team for the learning experience.
+
 
 ## Developer
 
