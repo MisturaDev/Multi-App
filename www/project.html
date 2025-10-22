@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Project</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>Project</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="project.html" class="active">Project</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="section">
+            <h2>EventApp - Incident Reporting Mobile App</h2>
+            <p>This is a Cordova mobile app project for reporting and managing incidents with geolocation and notifications.</p>
+
+            <button onclick="takePicture()">Take Photo</button>
+            <button onclick="choosePicture()">Choose From Gallery</button>
+
+            <div>
+                <img id="projectPhoto" src="Project-Photo.png" alt="ProjectPhoto" style="max-width: 200px; margin-top: 10px;" />
+            </div>
+
+            <button onclick="getLocation()">Get Current Location</button>
+            <p id="locationOutput">Location will appear here</p>
+        </section>
+
+        <section class="section">
+           <h2>Device Information</h2>
+           <p id="deviceInfo">Loading device info...</p>
+       </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mistura Ishola. All rights reserved.</p>
+    </footer>
+
+    <script src="cordova.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
