@@ -38,6 +38,19 @@ The project was developed using Cordova and App.js as part of **Bincom Dev Cente
 3. Run the app in your browser:
    ```bash
    cordova run browser
+   
+---
+
+## APK Download
+You can download the APK here:
+[Download APK](https://drive.google.com/your-apk-link)
+
+
+## How to Use
+1. Download and install the APK on your Android device.
+2. Open the app.
+3. Explore the features.
+
 
 ## Project Background
 
@@ -50,7 +63,7 @@ This project was completed as part of Bincom Dev Center assignment to demonstrat
 ## Developer
 
 **Mistura Ishola**
-[LinkedIn]:(https://www.linkedin.com/in/mistura-ishola)
+ [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
 
 
 ---
