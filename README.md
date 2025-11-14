@@ -42,12 +42,6 @@ To Run Locally
    
 ---
 
-## APK Download
-
-You can download and install the APK on an Android device:
-
-[Download APK](https://drive.google.com/file/d/1x8KUUuAxKHUyMdpxTHTkiKwSZ_kbT9Ge/view?usp=sharing)
-
 ### How to Install:
 
 1. Download the APK file.
