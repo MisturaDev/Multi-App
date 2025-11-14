@@ -42,13 +42,6 @@ To Run Locally
    
 ---
 
-### How to Install:
-
-1. Download the APK file.
-2. On your device, enable installation from unknown sources if required.
-3. Open the APK and install the app.
-4. Launch the app and explore the CV pages.
-
 ## Usage
 
 - Navigate between multiple CV pages using the menu.
