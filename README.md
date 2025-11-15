@@ -1,7 +1,7 @@
 #  Multi-App
 
 **Multi-App** is a mobile application showcasing multiple CV pages with a built-in contact form powered by [Formspree](https://formspree.io/).  
-The project was developed using Cordova and App.js as part of **Bincom Dev Center Training**.
+The project was developed using Cordova and App.js.
 
 ---
 
